@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(bg4.jpg) no-repeat;
+    background-size: cover;
+  }
+  .box{
+    width: 450px;
+    background: rgb(212, 194, 185);
+    padding: 40px;
+    text-align: center;
+    border-radius: 5%;
+    margin: auto;
+    margin-top: 5%;
+    font-family: 'Arial Narrow';
+  }
+  .box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 300px;
+  }
+  .box h1{
+    color:  rgb(95, 49, 27);
+    text-align: center;   
+    font-size: 40px;
+    font-weight: 100;
+  }
+  h2{
+    color:  rgb(95, 49, 27);
+    text-align: left;
+}
+p{
+    color: black;
+    text-align: justify;
+}
+ 
+.hr{
+    color: black;
+}  
+  
+
