@@ -5,11 +5,11 @@ body{
     background-size: cover;
   }
   .box{
-    width: 450px;
+    width: 60%;
     background: rgb(212, 194, 185);
     padding: 40px;
     text-align: center;
-    border-radius: 5%;
+    border-radius: 15px;
     margin: auto;
     margin-top: 5%;
     font-family: 'Arial Narrow';
